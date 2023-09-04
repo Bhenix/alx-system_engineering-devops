@@ -1,1 +1,2 @@
-Shell redirection and filters
+This contains the shell redirection project
+
